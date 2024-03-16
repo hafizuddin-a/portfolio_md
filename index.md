@@ -1,3 +1,8 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css">
+
 # Welcome to My Portfolio
 
 Hello! I'm [Hafizuddin](about.md), a software developer based in :round_pushpin:Singapore.
